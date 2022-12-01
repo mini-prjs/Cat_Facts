@@ -1,0 +1,31 @@
+body {
+	background-color: #5DBBFF;
+	font-family: 'Poppins', sans-serif;
+	background-color: #212426;
+	text-align: center;
+	margin-top: 150px;
+}
+button {
+	display: inline;
+	padding: 15px 25px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #000;
+	background-color: #fff;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+button:hover {background-color: rgb(241, 235, 235)}
+button:active {
+	background-color: #fff;
+	box-shadow: 0 5px rgb(156, 152, 152);
+	transform: translateY(4px);
+}
+p {
+	font-size: 30px;
+	color: #fff;
+}
